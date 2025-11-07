@@ -1,3 +1,4 @@
+(IN PROGRESS )
 Event Monitor Pro is a full-featured desktop application built with Flet, Python, OpenAI, and Windows APIs.
 It combines real-time system monitoring, intelligent event log analysis, and a GPT-powered assistant specialized in Windows diagnostics.
 
